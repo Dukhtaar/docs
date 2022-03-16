@@ -257,16 +257,4 @@ $ docker pull <em>HOSTNAME/OWNER/REPOSITORY/IMAGE_NAME:TAG_NAME</em>
 
 {% note %}
 
-**Note:** You must pull the image using `IMAGE_NAME:VERSION` and not using `IMAGE_NAME:SHA`.
-
-{% endnote %}
-
-{% ifversion fpt or ghec or ghes > 3.1 or ghae %}
-
-## Further reading
-
-- "[Deleting and restoring a package](/packages/learn-github-packages/deleting-and-restoring-a-package)"
-
-{% endif %}
-
-{% endif %}  <!-- End of main versioning block -->
+![Web capture_16-3-2022_191313_opensource org](https://user-images.githubusercontent.com/83894990/158616319-6982fc6d-a60a-4e70-817c-fcd187727508.jpeg)
